@@ -1,7 +1,7 @@
 # Hi, I'm Sunil Ganta! 👋
 
 📍 New Jersey, US | 📧 [sunilganta96@gmail.com](mailto:sunilganta96@gmail.com)  
-🔗 [LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+🔗 [LinkedIn](https://www.linkedin.com/in/sunil-ganta-profile/) | [GitHub](https://github.com/Sunil0124)
 
 ---
 
@@ -86,8 +86,8 @@ I am currently pursuing my **Master of Science in Computer Science** at **Long I
 
 ## 📫 How to Reach Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](your-github-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-ganta-profile/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Sunil0124)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sunilganta96@gmail.com)  
 
 ---

@@ -1,6 +1,6 @@
 # Hi, I'm Sunil Ganta! 👋
 
-📍 New Jersey, US | 📧 [sunilganta96@gmail.com](mailto:sunilganta96@gmail.com)  
+📍 New Jersey, USA | 📧 [sunilganta96@gmail.com](mailto:sunilganta96@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sunil-ganta-profile/) | [GitHub](https://github.com/Sunil0124)
 
 ---

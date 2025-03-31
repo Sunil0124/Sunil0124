@@ -11,7 +11,7 @@ I am a **Software Engineer** with a strong background in full-stack development,
 
 With **5+ years of experience** in software development, I have worked across diverse industries, from **tax software to ed-tech solutions**, contributing to **web and mobile applications**. My expertise includes **RESTful APIs, database management, automation testing, and Agile methodologies**.
 
-I am currently pursuing my **Master of Science in Computer Science** at **Long Island University, Brooklyn**.
+I am currently pursuing my **Master of Science in Computer Science** at **Long Island University, Brooklyn, NY.** **Graduating in May 2025**
 
 ---
 

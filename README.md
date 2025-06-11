@@ -23,19 +23,26 @@ Currently completing my **Master’s in Computer Science** at **Long Island Univ
 
 ### 🔹 Senior Software Engineer – Ryan India Tax Service Pvt Ltd  
 📍 Hyderabad, India | 📅 Dec 2020 – Sep 2023  
-- Engineered scalable **microservices** and **RESTful APIs** for U.S. tax compliance apps using **Java**, **Spring Boot**, and **Oracle**.  
-- Deployed containerized apps on **AWS** using **Docker** and **Kubernetes**.  
-- Secured systems with **JWT**, **OAuth 2.0**, and **CI/CD pipelines** via Jenkins.
+- Designed and implemented secure, scalable RESTful APIs using Flask for a U.S. tax compliance platform, with robust exception handling and role-based access using JWT and OAuth 2.0.
+-	Containerized backend services with CloudFormation, orchestrated deployments on AWS EKS using Kubernetes, and integrated CI/CD pipelines via AWS and Jenkins for streamlined releases.
+-	Built data validation and reconciliation pipelines with Pandas and NumPy, automating financial transaction audits and reducing manual effort by 70%.
+-	Implemented API rate limiting and request throttling to enhance platform security and prevent abuse in high-volume environments.
+-	Managed AWS infrastructure configured monitoring with CloudWatch and documented internal architecture for cross-functional collaboration.
 
 ### 🔹 Software Engineer – Clic Service Pvt Ltd  
 📍 Hyderabad, India | 📅 Sep 2018 – May 2020  
-- Built **React.js** SPAs with **Flask backend** and integrated **PostgreSQL** and JWT-secured endpoints.  
-- Contributed to full-stack deployment on **AWS Elastic Beanstalk** with Git-based CI workflows.
+-	Designed and developed microservices using Flask to support ecommerce platform backend operations, enhancing system scalability and performance.
+-	Built Python-based test and monitoring tools to validate API endpoints, improve logging, and streamline deployments, resulting in reduced downtime and faster issue resolution.
+-	 Integrated React.js frontend with Flask backend services using secure JWT-based authentication, enhancing both data security and user experience.
+-	Developed utility scripts for automation, data parsing, and system-level diagnostics across staging environments, increasing operational efficiency and reducing manual errors.
+-	Collaborated with the DevOps team to containerize services using Docker and deploy them on AWS, resulting in more reliable and scalable application deployments.
 
 ### 🔹 Junior Software Developer – Strateology IT Solutions Pvt Ltd  
 📍 Hyderabad, India | 📅 Oct 2017 – Jun 2018  
-- Developed exam scheduling systems in **Java (Spring MVC)** and executed QA automation.  
-- Managed **MySQL** data integration and student record APIs.
+-	Developed Flask APIs for managing attendance, exam scheduling, and student records, improving system usability and data reliability.
+-	Implemented form input validation and API sanitization checks to avoid invalid record insertions.
+-	Created scripts for bulk student data imports, including preprocessing logic in Python for CSV normalization.
+-	Built basic unit tests for backend data functions and collaborated with QA to triage API issues.
 
 ---
 
@@ -59,22 +66,16 @@ React · WebRTC · Node.js · Socket.IO
 
 ### Languages  
 Java · Python · JavaScript · TypeScript · SQL
-
 ### Frontend  
 React.js · Redux Toolkit · HTML5 · CSS3 · Bootstrap · Tailwind CSS
-
 ### Backend  
 Node.js · Express.js · Spring Boot · Flask · REST APIs · Microservices
-
 ### Databases  
 MySQL · PostgreSQL · Oracle · Firebase
-
 ### Cloud & DevOps  
 AWS (EC2, RDS, S3, Elastic Beanstalk, EKS) · Docker · Kubernetes · Jenkins · GitHub Actions
-
 ### QA & Testing  
 Selenium WebDriver · REST Assured · TestNG · Postman · Playwright
-
 ### AI Tools  
 OpenAI API · PyTorch · TensorFlow · scikit-learn · LangChain
 

@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sunil Ganta
 
-📍 New Jersey, USA (Open to relocation) |
-📧 [sunilganta96@gmail.com](mailto:sunilganta96@gmail.com)
+📍 New Jersey, USA (**Open to relocation**) 
 📞 +1 (551) 998-3828
+📧 [sunilganta96@gmail.com](mailto:sunilganta96@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/sunil-ganta-profile/)
 
 ---

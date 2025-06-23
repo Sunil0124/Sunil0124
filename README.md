@@ -1,15 +1,18 @@
 # 👋 Hi, I'm Sunil Ganta
 
-📍 New Jersey, USA | 📧 [sunilganta96@gmail.com](mailto:sunilganta96@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sunil-ganta-profile/) | [GitHub](https://github.com/Sunil0124)
+📍 New Jersey, USA (Open to relocation) |
+📧 [sunilganta96@gmail.com](mailto:sunilganta96@gmail.com)
+📞 +1 (551) 998-3828
+🔗 [LinkedIn](https://www.linkedin.com/in/sunil-ganta-profile/)
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Full Stack Software Engineer** with 5+ years of experience building secure, scalable applications across **finance, education, tax, and e-commerce** domains. My toolkit includes **Java, Python, React.js, Spring Boot, Flask, and Node.js**, and I thrive at the intersection of backend engineering, frontend UX, and cloud-native deployment.
+**Full Stack Software Engineer with 5 years of experience** designing and delivering scalable, secure web applications across finance, tax, education, and e-commerce domains. Proficient in **Java, Python, React.js, Spring Boot, and Flask,** with expertise in building RESTful APIs, microservices, automation frameworks, and frontend interfaces. Skilled in CI/CD
+pipelines, cloud-native deployments, and test automation using Selenium and REST Assured. Adept in **SQL/NoSQL databases, API security, and Agile methodologies**. 
 
-Currently completing my **Master’s in Computer Science** at **Long Island University, Brooklyn** (Graduation: **May 2025**), I’ve led impactful projects using **AI, REST APIs, microservices, and cloud platforms like AWS**.
+I recently completed my **Master’s in Computer Science** from Long Island University, Brooklyn (May 2025), graduating with the **Excellence in Computer Science Award**. During my studies, I led impactful projects integrating **AI/ML, RESTful APIs, microservices, and AWS cloud services**. I bring a deep understanding of building enterprise-grade systems that are performance-optimized, user-centric, and cloud-ready.
 
 ---
 

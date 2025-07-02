@@ -1,116 +1,155 @@
-# 👋 Hi, I'm Sunil Ganta
+<h1 align="center">👋 Hi, I'm Sunil Ganta</h1>
 
-📍 New Jersey, USA (**Open to relocation**) |
-📞 +1 (551) 998-3828 |
-📧 [sunilganta96@gmail.com](mailto:sunilganta96@gmail.com) |
-🔗 [LinkedIn](https://www.linkedin.com/in/sunil-ganta-profile/) |
+<p align="center">
+  <b>🚀 Full Stack Software Engineer | AI Enthusiast | Cloud-Native Builder</b><br/>
+  📍 New Jersey, USA &nbsp;|&nbsp; 📬 <a href="mailto:sunilganta96@gmail.com">sunilganta96@gmail.com</a> &nbsp;|&nbsp; 
+  <a href="https://www.linkedin.com/in/sunil-ganta-profile/">LinkedIn</a> &nbsp;|&nbsp; 
+  📞 +1 (551) 998-3828
+</p>
 
 ---
 
 ## 🚀 About Me
 
-**Full Stack Software Engineer with 5 years of experience** designing and delivering scalable, secure web applications across finance, tax, education, and e-commerce domains. Proficient in **Java, Python, React.js, Spring Boot, and Flask,** with expertise in building RESTful APIs, microservices, automation frameworks, and frontend interfaces. Skilled in CI/CD
-pipelines, cloud-native deployments, and test automation using Selenium and REST Assured. Adept in **SQL/NoSQL databases, API security, and Agile methodologies**. 
+💡 **Full Stack Engineer with 5+ years** of experience crafting secure, scalable, and user-centric web platforms across finance, tax, education, and e-commerce.
 
-I recently completed my **Master’s in Computer Science** from Long Island University, Brooklyn (May 2025), graduating with the **Excellence in Computer Science Award**. During my studies, I led impactful projects integrating **AI/ML, RESTful APIs, microservices, and AWS cloud services**. I bring a deep understanding of building enterprise-grade systems that are performance-optimized, user-centric, and cloud-ready.
+🛠️ Skilled in **Java, Python, React, Spring Boot, Flask**, and **cloud-native architectures (AWS, Docker, K8s)**.
+
+🧠 Passionate about building **REST APIs, automation frameworks**, and full-stack solutions with real-world impact. 
+
+🏆 Recently graduated with **Excellence in Computer Science Award** from **LIU, Brooklyn (May 2025)**.
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Software Engineer Intern – Chaya Development LLC  
-📍 New York, USA | 📅 Jan 2025 – May 2025  
-- Developed **TutorRx**, a flashcard-based learning app with **React Native**, **Node.js**, and **Firebase**.  
-- Integrated **OpenAI API** for AI-powered exam generation and **Redux Toolkit** for optimized state management.  
-- Added **leaderboards, analytics,** and secure backend integrations.
+<details>
+<summary><b>👨‍💻 Software Engineer Intern – Chaya Development LLC (Jan 2025 – May 2025)</b></summary>
 
-### 🔹 Senior Software Engineer – Ryan India Tax Service Pvt Ltd  
-📍 Hyderabad, India | 📅 Dec 2020 – Sep 2023  
-- Designed and implemented secure, scalable RESTful APIs using Flask for a U.S. tax compliance platform, with robust exception handling and role-based access using JWT and OAuth 2.0.
--	Containerized backend services with CloudFormation, orchestrated deployments on AWS EKS using Kubernetes, and integrated CI/CD pipelines via AWS and Jenkins for streamlined releases.
--	Built data validation and reconciliation pipelines with Pandas and NumPy, automating financial transaction audits and reducing manual effort by 70%.
--	Implemented API rate limiting and request throttling to enhance platform security and prevent abuse in high-volume environments.
--	Managed AWS infrastructure configured monitoring with CloudWatch and documented internal architecture for cross-functional collaboration.
+- 📱 Built **TutorRx**, a flashcard-based learning app using React Native & Firebase  
+- ⚙️ Integrated OpenAI for AI-generated quizzes  
+- 📊 Implemented analytics, leaderboard & secure backend logic
 
-### 🔹 Software Engineer – Clic Service Pvt Ltd  
-📍 Hyderabad, India | 📅 Sep 2018 – May 2020  
--	Designed and developed microservices using Flask to support ecommerce platform backend operations, enhancing system scalability and performance.
--	Built Python-based test and monitoring tools to validate API endpoints, improve logging, and streamline deployments, resulting in reduced downtime and faster issue resolution.
--	 Integrated React.js frontend with Flask backend services using secure JWT-based authentication, enhancing both data security and user experience.
--	Developed utility scripts for automation, data parsing, and system-level diagnostics across staging environments, increasing operational efficiency and reducing manual errors.
--	Collaborated with the DevOps team to containerize services using Docker and deploy them on AWS, resulting in more reliable and scalable application deployments.
+</details>
 
-### 🔹 Junior Software Developer – Strateology IT Solutions Pvt Ltd  
-📍 Hyderabad, India | 📅 Oct 2017 – Jun 2018  
--	Developed Flask APIs for managing attendance, exam scheduling, and student records, improving system usability and data reliability.
--	Implemented form input validation and API sanitization checks to avoid invalid record insertions.
--	Created scripts for bulk student data imports, including preprocessing logic in Python for CSV normalization.
--	Built basic unit tests for backend data functions and collaborated with QA to triage API issues.
+<details>
+<summary><b>👨‍💻 Senior Software Engineer – Ryan India Tax (Dec 2020 – Sep 2023)</b></summary>
 
----
+- 🔐 Delivered secure APIs with JWT/OAuth for U.S. tax systems  
+- ☁️ Deployed to AWS EKS using Docker, Kubernetes, Jenkins  
+- 📉 Automated data pipelines saving 70% manual effort
 
-## 🧠 Projects
+</details>
 
-### 💻 LIU Bank – Full-Stack Banking Platform  
-[GitHub Repo](https://github.com/Sunil0124)  
-React · TypeScript · Node.js · MySQL · AWS  
-- Built a secure banking app with **account management, investments**, and **chatbot support**.  
-- Deployed backend with **Node.js**, **Sequelize**, and **MySQL** to **AWS Elastic Beanstalk** with S3.
+<details>
+<summary><b>👨‍💻 Software Engineer – Clic Service (Sep 2018 – May 2020)</b></summary>
 
-### 🔊 Audio WebRTC – Real-Time Audio Communication  
-[GitHub Repo](https://github.com/Sunil0124/audio-webrtc-react)    
-React · WebRTC · Node.js · Socket.IO  
-- Enabled **1:1 peer-to-peer audio calls** using **WebRTC** and **Socket.IO signaling**.  
-- Built dynamic UI and connection logic in **React.js**.
+- 🔄 Developed microservices  
+- 📦 Built automation tools to validate APIs and streamline deployments  
+- 🧪 Secured backend communication with JWT & improved DX
+
+</details>
+
+<details>
+<summary><b>👨‍💻 Junior Software Developer – Strateology IT (Oct 2017 – Jun 2018)</b></summary>
+
+- 📚 Developed APIs for student attendance & exam portals  
+- 📥 Built scripts for data imports and normalization  
+- 🔍 Implemented backend unit tests & validation checks
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Featured Projects
 
-### Languages  
-Java · Python · JavaScript · TypeScript · SQL
-### Frontend  
-React.js · Redux Toolkit · HTML5 · CSS3 · Bootstrap · Tailwind CSS
-### Backend  
-Node.js · Express.js · Spring Boot · Flask · REST APIs · Microservices
-### Databases  
-MySQL · PostgreSQL · Oracle · Firebase
-### Cloud & DevOps  
-AWS (EC2, RDS, S3, Elastic Beanstalk, EKS) · Docker · Kubernetes · Jenkins · GitHub Actions
-### QA & Testing  
-Selenium WebDriver · REST Assured · TestNG · Postman · Playwright
-### AI Tools  
-OpenAI API · PyTorch · TensorFlow · scikit-learn · LangChain
+| Project | Tech Stack | Highlights |
+|--------|------------|------------|
+| [🔐 LIU Bank](https://github.com/Sunil0124) | React · TS · Node.js · MySQL · AWS | Banking app with **investments, chatbot, and secure AWS deployment** |
+| [🎙️ Audio WebRTC](https://github.com/Sunil0124/audio-webrtc-react) | React · WebRTC · Node.js · Socket.IO | Real-time **1:1 audio calling** with dynamic UI and peer signaling |
 
 ---
 
-## 📜 Awards & Certifications
+## 🛠️ Tech Toolbox
 
-- 🏆 **Excellence in Computer Science Award** – Long Island University, 2025  
-- 📄 **Crash Course on Python** – Coursera  
-- 📄 **Microsoft SQL Server 2019 Essentials** – LinkedIn Learning  
-- 📄 **MySQL Essential Training** – LinkedIn Learning  
-- 📄 **Learning Python** – LinkedIn Learning
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)  
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**DevOps & Cloud:**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+**QA Tools:**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**AI & ML:**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat&logo=chainlink&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=hugging-face&logoColor=black) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+---
+
+## 🏆 Awards & Certifications
+
+- 🏅 **Excellence in Computer Science Award** – Long Island University, 2025  
+- 📜 **PyTorch & Deep Learning for Decision Makers** – The Linux Foundation, Jun 2025  
+- 📜 **Crash Course on Python** – Coursera  
+- 📜 **SQL Server 2019 Essentials** – LinkedIn Learning  
+- 📜 **MySQL Essential Training** – LinkedIn Learning  
+- 📜 **Learning Python** – LinkedIn Learning  
 
 ---
 
 ## 🎓 Education
 
-**Master of Science – Computer Science**  
-Long Island University, Brooklyn | 📅 Sep 2023 – May 2025 | 🎓 GPA: 3.9 / 4.0  
+🎓 **M.S. in Computer Science**  
+Long Island University, Brooklyn | *Sep 2023 – May 2025* | GPA: **3.9 / 4.0**
 
-**Bachelor of Technology – Computer Science and Engineering**  
-JNTU Hyderabad | 📅 Jun 2013 – May 2017
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-ganta-profile/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github&logoColor=white)](https://github.com/Sunil0124)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:sunilganta96@gmail.com)
+🎓 **B.Tech in Computer Science & Engineering**  
+JNTU Hyderabad | *Jun 2013 – May 2017*
 
 ---
 
-### ✨ Fun Fact  
-I love exploring **AI-powered apps**, optimizing backend performance, and building **production-grade full-stack solutions**. Always up for learning and solving complex tech challenges! 🚀
+## 📫 Let’s Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sunil-ganta-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sunil0124">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sunilganta96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+I enjoy **optimizing backend performance**, playing with **LLMs**, and building **AI-powered full-stack apps** for real-world problems! Always up for new challenges and lifelong learning. 🌱
